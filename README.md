@@ -1,38 +1,239 @@
-<div align="center">
+# ⚡ Hey, I'm Ajit Choudhari! 👋
 
-<!-- 1. DYNAMIC ANIMATED WAVING HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=Hey%20there,%20I'm%20Ajit%20👋&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20IoT%20Innovator%20%7C%20SIH%20Finalist&descAlignY=60&descAlign=50&fontColor=ffffff&descColor=A5F3FC&animation=twinkling" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+%F0%9F%92%BB;Python+%7C+C%2B%2B+Developer+%F0%9F%90%8D;Creative+Problem+Solver+%F0%9F%A7%A0;Building+Projects%2C+Learning+%26+Exploring+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
 
-<!-- 2. ANIMATED MULTI-LINE TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=⚡+Engineering+Solutions+for+Real-World+Impact;🌊+Creator+of+JalDrishti+AI+(Smart+India+Hackathon);🤖+Passionate+about+Autonomous+Systems+%26+ML;🚀+Always+Exploring,+Building,+and+Optimizing" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00ffff&style=for-the-badge" />
+</p>
+
+---
+
+## 🧬 `who_am_i.exe`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                  SYSTEM INFORMATION                  ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  👨‍💻 Identity      : Ajit Choudhari                  ║
+║  🎓 Education     : Computer Engineering              ║
+║  💻 Passion       : Coding & Technology               ║
+║  🐍 Language      : Python                            ║
+║  ⚡ Also Learning : C++                               ║
+║  🧠 Mindset       : Learn → Build → Improve           ║
+║  🚀 Mission       : Turn Ideas Into Reality           ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<br>
+
+> **"I don't just learn technology... I experiment with it."** 🚀
+
+---
+
+# 🌌 MY DIGITAL UNIVERSE
+
+<p align="center">
+
+```text
+                💡 IDEAS
+                  │
+                  ▼
+            🧠 LEARNING
+                  │
+                  ▼
+             💻 CODING
+                  │
+                  ▼
+             🔨 BUILDING
+                  │
+                  ▼
+             🚀 PROJECTS
+                  │
+                  ▼
+            🌎 REAL WORLD
+```
+
+</p>
+
+---
+
+# ⚔️ TECH ARSENAL
+
+### 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css" />
+
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,latex" />
+
+</p>
+
+---
+
+# 🧪 CURRENTLY EXPERIMENTING WITH
+
+```python
+class Ajit:
+
+    def __init__(self):
+        self.learning = [
+            "Python",
+            "C++",
+            "Data Structures",
+            "Problem Solving",
+            "Git & GitHub",
+            "Mini Projects"
+        ]
+
+        self.goal = "Build something useful 🚀"
+
+    def work(self):
+        while True:
+            learn()
+            code()
+            experiment()
+            fail()
+            improve()
+            repeat()
+```
+
+---
+
+# 🚀 PROJECT ZONE
+
+### 🐍 Python Projects
+
+| Project                 | Description                    |
+| ----------------------- | ------------------------------ |
+| 🎯 Number Guessing Game | Simple interactive Python game |
+| 📝 To-Do List           | Manage daily tasks             |
+| 💰 Expense Tracker      | Track personal expenses        |
+| 🧮 Calculator           | Perform basic calculations     |
+| 📚 Library Management   | Manage books and records       |
+
+### ⚡ C++ Projects
+
+| Project                       | Description                   |
+| ----------------------------- | ----------------------------- |
+| 🚌 Bus Reservation System     | Manage bus bookings           |
+| 🎓 Student Information System | Store and manage student data |
+| 📊 Sorting Algorithms         | Explore sorting techniques    |
+
+> 🚧 **More projects are loading...**
+
+---
+
+# 📊 GITHUB COMMAND CENTER
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 📈 ACTIVITY
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</p>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</p>
+
+---
+
+# 🎯 2026 MISSION
+
+```text
+[████████████████░░░░] 80%
+
+☑ Learn programming
+☑ Build mini projects
+☑ Learn Git & GitHub
+☑ Improve problem solving
+☐ Build bigger projects
+☐ Contribute to Open Source
+☐ Create something people actually use
+```
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/>
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<!-- 3. ANIMATED STATUS PILL BADGES -->
-[![Profile Views](https://komarev.com/ghpvc/?username=achoudhari91&style=for-the-badge&color=0ea5e9&label=PROFILE+VISITS)](https://github.com/achoudhari91)
-[![SIH Finalist](https://img.shields.io/badge/SIH%202024%2F2026-FINALIST-10b981?style=for-the-badge&logo=target&logoColor=white)](https://github.com/achoudhari91/JalDrishti)
-[![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-ENTHUSIAST-8b5cf6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/achoudhari91)
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
-
----
-
-### 🌊 Featured Innovation: JalDrishti AI
-> **Smart India Hackathon (SIH)** • Clean & Green + Agriculture Track  
-> *Autonomous Rover Hydrography, Sentinel-2 Remote Sensing & Microplastic Canal Tracer.*  
-> 🔗 **Explore the project:** [JalDrishti Repository](https://github.com/achoudhari91/JalDrishti) • [Live Demo](https://achoudhari91.github.io/JalDrishti/)
+</p>
 
 ---
 
-### 🚀 About Me
+# 🧠 RANDOM DEVELOPER THOUGHT
 
-```bash
-const engineer = {
-    name: "Ajit Choudhari",
-    mindset: ["Problem Solver", "System Architect", "Speed & Precision"],
-    currentFocus: "Autonomous canal rovers, AI telemetry, and spatial computing",
-    techPassion: ["AI / Machine Learning", "Embedded IoT Systems", "Web Performance"],
-    motto: "Building technology that leaves a cleaner planet behind."
-};
+<p align="center">
+
+```text
+while(alive)
+{
+    learn();
+    code();
+    build();
+    repeat();
+}
+```
+
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ `CODE. CREATE. REPEAT.` ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</p>
