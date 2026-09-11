@@ -17,13 +17,13 @@
 ║                  SYSTEM INFORMATION                  ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
-║  👨‍💻 Identity      : Ajit Choudhari                  ║
-║  🎓 Education     : Computer Engineering              ║
-║  💻 Passion       : Coding & Technology               ║
-║  🐍 Language      : Python                            ║
-║  ⚡ Also Learning : C++                               ║
-║  🧠 Mindset       : Learn → Build → Improve           ║
-║  🚀 Mission       : Turn Ideas Into Reality           ║
+║  👨‍💻 Identity      : Ajit Choudhari                   ║
+║  🎓 Education     : Computer Engineering             ║
+║  💻 Passion       : Coding & Technology              ║
+║  🐍 Language      : Python                           ║
+║  ⚡ Also Learning : C++                              ║
+║  🧠 Mindset       : Learn → Build → Improve          ║
+║  🚀 Mission       : Turn Ideas Into Reality          ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -39,7 +39,7 @@
 <p align="center">
 
 ```text
-                💡 IDEAS
+              💡 IDEAS
                   │
                   ▼
             🧠 LEARNING
@@ -114,17 +114,17 @@ class Ajit:
 
 ### 🐍 Python Projects
 
-| Project                 | Description                    |
-| ----------------------- | ------------------------------ |
-| 🎯 Number Guessing Game | Simple interactive Python game |
-| 📝 To-Do List           | Manage daily tasks             |
-| 💰 Expense Tracker      | Track personal expenses        |
-| 🧮 Calculator           | Perform basic calculations     |
-| 📚 Library Management   | Manage books and records       |
+|       Project                 |       Description              |
+| -----------------------       | ------------------------------ |
+| 🎯 Number Guessing Game       | Simple interactive Python game |
+| 📝 To-Do List                 | Manage daily tasks             |
+| 💰 Expense Tracker            | Track personal expenses        |
+| 🧮 Calculator                 | Perform basic calculations     |
+| 📚 Library Management         | Manage books and records       |
 
 ### ⚡ C++ Projects
 
-| Project                       | Description                   |
+|        Project                |       Description             |
 | ----------------------------- | ----------------------------- |
 | 🚌 Bus Reservation System     | Manage bus bookings           |
 | 🎓 Student Information System | Store and manage student data |
